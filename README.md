@@ -39,8 +39,11 @@ This project aims to enhance the inclusivity, accessibility, and overall effecti
 
 ## Project Significance
 •  **Regional Diversity:** By increasing participation from underrepresented regions, particularly the South East and North Central areas, the project will foster a more geographically diverse learning environment.
+
 •  **Educational Inclusion:** Special attention to SSCE holders and tailored support for self-employed and unemployed participants will ensure that the program is accessible to individuals from varied educational and professional backgrounds.
+
 •  **Enhanced Learning Opportunities:** Comprehensive online resources and flexible class schedules will accommodate participants with time constraints and those who cannot attend in person, thereby broadening access to the program.
+
 •  **Career Development:** Developing more programs and resources to support career services, internships, and job opportunities will help participants, particularly the self-employed and unemployed, to advance their professional lives.
 
 ## Data Sources 
