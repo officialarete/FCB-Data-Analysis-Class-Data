@@ -1,11 +1,16 @@
 # FCB-Data-Analysis-Class-Data
-The current Data Analysis class faces several challenges that limit its inclusivity and effectiveness.
-Despite having a diverse group of 167 participants from 12 states in Nigeria, there is a significant underrepresentation of youth from the South East, North Central regions and other regions. The Incubator Nigeria (Organizers) also needs to address the needs of SSCE holders and support self-employed and unemployed participants more effectively. 
-Addressing these issues is crucial to ensuring that subsequent boot camps meets the diverse needs of all its participants and maximizes its impact.
+
+This project provides an in-depth analysis and visualization of a Data Analysis class comprising 167 participants. The dataset includes details on employment status, age distribution, geographic origins, gender balance, marital status, and educational backgrounds. Using MS Power BI, I explored and visualized key insights, such as the high proportion of self-employed individuals, the predominant age range of 26-35 years, and the geographical concentration in Lagos, Ogun, and Oyo states. This project demonstrates my ability to analyze complex datasets and create meaningful visual representations to convey data-driven insights.
 
 ## Table of Content
 
 Introduction
+
+Problem statement
+
+Project Aims
+
+Project Significance
 
 Data Source
 
@@ -24,7 +29,19 @@ Conclusion
 - - -
 
 ## Introduction
+This project provides an in-depth analysis and visualization of a Data Analysis class comprising 167 participants. The dataset includes details on employment status, age distribution, geographic origins, gender balance, marital status, and educational backgrounds. Using MS Power BI, I explored and visualized key insights, such as the high proportion of self-employed individuals, the predominant age range of 26-35 years, and the geographical concentration in Lagos, Ogun, and Oyo states. This project demonstrates my ability to analyze complex datasets and create meaningful visual representations to convey data-driven insights.
+
+## Problem statement
+The current Data Analysis class faces several challenges that limit its inclusivity and effectiveness. Despite having a diverse group of 167 participants from 12 states in Nigeria, there is a significant underrepresentation of youth from the South East, North Central regions and other regions. The Incubator Nigeria (Organizers) also needs to address the needs of SSCE holders and support self-employed and unemployed participants more effectively. Addressing these issues is crucial to ensuring that subsequent boot camps meets the diverse needs of all its participants and maximizes its impact.
+
+## Project Aims
 This project aims to enhance the inclusivity, accessibility, and overall effectiveness of the Data Analysis class in the Future Clan Boot-camp by Incubator Nigeria and Rccg Continent 3. This will be achieved by increasing regional diversity, supporting various educational background, and employment status and providing flexible learning options to accommodate participants' different needs and circumstances.
+
+## Project Significance
+•  **Regional Diversity:** By increasing participation from underrepresented regions, particularly the South East and North Central areas, the project will foster a more geographically diverse learning environment.
+•  **Educational Inclusion:** Special attention to SSCE holders and tailored support for self-employed and unemployed participants will ensure that the program is accessible to individuals from varied educational and professional backgrounds.
+•  **Enhanced Learning Opportunities:** Comprehensive online resources and flexible class schedules will accommodate participants with time constraints and those who cannot attend in person, thereby broadening access to the program.
+•  **Career Development:** Developing more programs and resources to support career services, internships, and job opportunities will help participants, particularly the self-employed and unemployed, to advance their professional lives.
 
 ## Data Sources 
 The primary data sources for this project is the class data of all Data analysis participants in the Future Clan Bootcamp by Incubator Nigeria and RCCG Continent 3
@@ -54,8 +71,6 @@ These visualizations provided clear insights into the demographic composition, e
 ![](ClassData1.jpg)
 
 ![](ClassData2.jpg)
-
-
 
 
 ## Insights
